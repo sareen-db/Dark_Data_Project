@@ -43,5 +43,5 @@ Required files: <br />
 Output: <br />
 	&emsp; word cloud files titled "trial#_ drugname.png", in folder "wordclouds" 
 
-### 4. Future Work
+# 4. Future Work
 This algorithm produces an NLP corpus containing sentences related to the trial termination. Word clouds aid with visualizing the most frequently present words, to help us design more suitable algorithms. We need further processing on the corpus to dig out useful information, or more targeted scraping to get better sources for reasons. 
