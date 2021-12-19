@@ -32,7 +32,7 @@ Required files: <br />
 	&emsp; GetReasons.ipynb (Section 1 & 2) <br />
 	&emsp; Filtered List: clinicaltrials_data_0_2000_labelled.xls <br />
 
-Output: 
+Output: <br />
 	&emsp; clinicaltrials_trialsRangeStart_trialsRangeEnd_selected_reasons.csv <br />
 
 ## 3.2 Produce wordclouds. 
